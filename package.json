@@ -20,5 +20,9 @@
     "log-update": "^3.2.0",
     "ora": "^3.4.0",
     "rimraf": "^2.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Delicate90/delicate-cli.git"
   }
 }
